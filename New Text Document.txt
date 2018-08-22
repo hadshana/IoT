@@ -1,0 +1,4 @@
+git clone https://github.com/Azure-Samples/web-apps-node-iot-hub-data-visualization.git
+cd web-apps-node-iot-hub-data-visualization
+git remote add webapp https://iotftp03@iotaim.scm.azurewebsites.net:443/IotAim.git
+git push webapp master:master
